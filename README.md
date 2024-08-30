@@ -2,7 +2,8 @@
 # **MY INTRODUCTION**
 ## I am **Hammad 24k-0702** 
 19 y/o From Pakistan 
-## I'm interested in analyzing and solving problems.![image](https://github.com/user-attachments/assets/8d21a219-5449-4759-983e-3fc8e1e24ff0)
+## I'm interested in analyzing and solving problems.![image](https://github.com/user-attachments/assets/5a58b303-489d-4152-883b-7200a04607be)
+
 
 ## Currently enrolled in Bachelors of Computer Science At FAST-NUCES.![image](https://github.com/user-attachments/assets/a8253c33-0b2e-4f2c-9775-2f9bb5d6601d)
 

@@ -4,9 +4,15 @@ and odd numbers.**
 **solution:**
 
 Input num
+
 if num%2 == 0
-then 
+
+then
+
 print (num,"even")
-else 
+
+else
+
 print ("odd")
+
 end if 

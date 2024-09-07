@@ -1,0 +1,4 @@
+**Q1)Explain the output of this C program. Why the wrong value is being displayed in the output? **
+
+**Answer:** we attempted to assign the value 3000000000 to an integer variable, which exceeds the maximum value that can be represented by an integer i.e 2,147,483,647.
+

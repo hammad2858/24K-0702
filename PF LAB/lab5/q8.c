@@ -1,24 +1,17 @@
 #include <stdio.h>
 
-int countOnes(int num) {
-    int count = 0;
-
-    while (num != 0) {
-        count += num & 1;
-        num >>= 1;
-    }
-
-    return count;
-}
-
 int main() {
-    int num;
+    int number, count = 0;
 
     printf("Enter a number: ");
-    scanf("%d", &num);
+    scanf("%d", &number);
 
-    int onesCount = countOnes(num);
-    printf("Number of 1s in the binary representation: %d\n", onesCount);
+    while (number != 0) {
+        count += number & 1;
+        number >>= 1;
+    }
+
+    printf("Number of 1s : %d \n", count);
 
     return 0;
 }

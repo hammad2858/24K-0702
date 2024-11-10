@@ -1,6 +1,6 @@
 # 24K-0702
 # **MY INTRODUCTION**
-## I am **Hammad 24k-0702** 
+## I am **Hammad Siddiqui** 
 19 y/o From Pakistan 
 ## I'm interested in analyzing and solving problems.🧩
 # Gymrat ❚█══█❚ #

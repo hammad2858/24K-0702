@@ -15,7 +15,6 @@ void bubbleSort(int a[], int n) {
         }
     }
 
-    // Recursive call to bubbleSort for the next pass
     bubbleSort(a, n - 1);
 }
 
